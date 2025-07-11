@@ -16,6 +16,7 @@ A simple and fun bouncing ball game made using Python and the Pygame library. Th
 
 - **Python 3**
 - **Pygame**
+- **Tkinter**
 
 ---
 
